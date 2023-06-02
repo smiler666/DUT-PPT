@@ -8,6 +8,6 @@
 
 ![大连理工大学专属毕业答辩PPT模板](img/1.png)
 
-请前往[/ppt/](/ppt/)页面下载
+请前往[/PPT/](/PPT/)页面下载
 
 博客页面：https://smiler666.github.io/post/share-4-ppt-1/
